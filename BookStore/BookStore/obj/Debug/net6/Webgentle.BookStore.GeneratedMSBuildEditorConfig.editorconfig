@@ -1,0 +1,112 @@
+is_global = true
+build_property.TargetFramework = Net6
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Webgentle.BookStore
+build_property.RootNamespace = Webgentle.BookStore
+build_property.ProjectDir = /home/phong/Desktop/aspnet-core-mvc-master/BookStore/Webgentle.BookStore/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = /home/phong/Desktop/aspnet-core-mvc-master/BookStore/Webgentle.BookStore
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/phong/Desktop/aspnet-core-mvc-master/BookStore/Webgentle.BookStore/Areas/Admin/Views/Home/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvSG9tZS9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phong/Desktop/aspnet-core-mvc-master/BookStore/Webgentle.BookStore/Areas/Admin/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phong/Desktop/aspnet-core-mvc-master/BookStore/Webgentle.BookStore/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvQWRtaW4vVmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phong/Desktop/aspnet-core-mvc-master/BookStore/Webgentle.BookStore/Areas/Financial/Views/Dashboard/Graph.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvRmluYW5jaWFsL1ZpZXdzL0Rhc2hib2FyZC9HcmFwaC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phong/Desktop/aspnet-core-mvc-master/BookStore/Webgentle.BookStore/Views/Account/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9DaGFuZ2VQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phong/Desktop/aspnet-core-mvc-master/BookStore/Webgentle.BookStore/Views/Account/ConfirmEmail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Db25maXJtRW1haWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phong/Desktop/aspnet-core-mvc-master/BookStore/Webgentle.BookStore/Views/Account/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Gb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phong/Desktop/aspnet-core-mvc-master/BookStore/Webgentle.BookStore/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phong/Desktop/aspnet-core-mvc-master/BookStore/Webgentle.BookStore/Views/Account/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9SZXNldFBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phong/Desktop/aspnet-core-mvc-master/BookStore/Webgentle.BookStore/Views/Account/Signup.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9TaWdudXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phong/Desktop/aspnet-core-mvc-master/BookStore/Webgentle.BookStore/Views/Book/AddNewBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9vay9BZGROZXdCb29rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phong/Desktop/aspnet-core-mvc-master/BookStore/Webgentle.BookStore/Views/Book/GetAllBooks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9vay9HZXRBbGxCb29rcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phong/Desktop/aspnet-core-mvc-master/BookStore/Webgentle.BookStore/Views/Book/GetBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQm9vay9HZXRCb29rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phong/Desktop/aspnet-core-mvc-master/BookStore/Webgentle.BookStore/Views/Home/AboutUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BYm91dFVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phong/Desktop/aspnet-core-mvc-master/BookStore/Webgentle.BookStore/Views/Home/ContactUs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db250YWN0VXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phong/Desktop/aspnet-core-mvc-master/BookStore/Webgentle.BookStore/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phong/Desktop/aspnet-core-mvc-master/BookStore/Webgentle.BookStore/Views/Shared/Components/TopBooks/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvVG9wQm9va3MvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phong/Desktop/aspnet-core-mvc-master/BookStore/Webgentle.BookStore/Views/Shared/_bookThumbnail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19ib29rVGh1bWJuYWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phong/Desktop/aspnet-core-mvc-master/BookStore/Webgentle.BookStore/Views/Shared/_footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19mb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phong/Desktop/aspnet-core-mvc-master/BookStore/Webgentle.BookStore/Views/Shared/_header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19oZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phong/Desktop/aspnet-core-mvc-master/BookStore/Webgentle.BookStore/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phong/Desktop/aspnet-core-mvc-master/BookStore/Webgentle.BookStore/Views/Shared/_LoginInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Mb2dpbkluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phong/Desktop/aspnet-core-mvc-master/BookStore/Webgentle.BookStore/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phong/Desktop/aspnet-core-mvc-master/BookStore/Webgentle.BookStore/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
